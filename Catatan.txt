@@ -1,1 +1,4 @@
 D:\laragon\www\api_token_laravel> composer create-project laravel/laravel="10.*" .
+php artisan make:controller productController --api --model=product
+
+php artisan make:controller authController --model=User
