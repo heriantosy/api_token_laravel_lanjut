@@ -1,0 +1,1 @@
+D:\laragon\www\api_token_laravel> composer create-project laravel/laravel="10.*" .
